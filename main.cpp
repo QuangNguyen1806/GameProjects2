@@ -1,5 +1,5 @@
 /**
-* Author: [Your name here]
+* Author: Quang Nguyen
 * Assignment: Pong Clone
 * Date due: 2025-10-13, 11:59pm
 * I pledge that I have completed this assignment without
